@@ -9,6 +9,12 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
+            "args":[
+                //"\"C:\\Users\\jtpet\\OneDrive\\My Projects\\Python\\PyLevelizor\\tests\\mpthreetest.mp3\"",
+                //"\"C:\\Users\\jtpet\\OneDrive\\My Projects\\Python\\PyLevelizor\\tests\\piano2.aiff\"",
+                "\"C:\\Users\\jtpet\\OneDrive\\My Projects\\Python\\PyLevelizor\\tests\\piano2.wav\"",
+                "-d"
+            ],
             "console": "integratedTerminal"
         },
         {
